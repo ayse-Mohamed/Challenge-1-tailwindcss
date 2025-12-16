@@ -1,0 +1,1 @@
+text-xl font-bold mt-11 ml-[20px]
